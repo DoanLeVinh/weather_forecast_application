@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "451593270505",
+    "firebase_url": "https://my-database-7d784-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-database-7d784",
+    "storage_bucket": "my-database-7d784.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451593270505:android:2810beb2838ca84b29ac78",
+        "android_client_info": {
+          "package_name": "com.Youcansee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYefcNdctwPvWtscmkV9BT3pDTZBA6uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451593270505:android:00ae4b21868ba7a229ac78",
+        "android_client_info": {
+          "package_name": "com.example.project_weather_forecast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYefcNdctwPvWtscmkV9BT3pDTZBA6uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
